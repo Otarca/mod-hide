@@ -1,5 +1,7 @@
 # Fabric Hider
 
+Copy from https://github.com/TrollTaylor/Fabric-Hider.git
+
 Hides fabric from your client and also tells servers you are playing in vanilla!
 
 Feel free to copy or improve any code you would like.
